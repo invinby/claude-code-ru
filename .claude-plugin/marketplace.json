@@ -1,0 +1,8 @@
+{
+  "name": "claude-code-ru",
+  "owner": { "name": "invinby" },
+  "metadata": { "description": "Русский интерфейс Claude Code" },
+  "plugins": [
+    { "name": "cc-ru", "source": "./mods/cc-ru", "description": "Русские команды, настройки и статусы без API-запросов", "version": "0.1.0" }
+  ]
+}
