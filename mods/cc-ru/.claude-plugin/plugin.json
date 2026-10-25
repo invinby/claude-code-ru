@@ -1,0 +1,8 @@
+{
+  "name": "cc-ru",
+  "version": "0.1.0",
+  "description": "Русские описания команд, настройки и доступные элементы интерфейса Claude Code. Локальный словарь без API-запросов.",
+  "author": { "name": "invinby" },
+  "license": "MIT",
+  "keywords": ["russian", "ru-RU", "i18n", "claude-code-mod"]
+}
